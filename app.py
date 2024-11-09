@@ -29,6 +29,5 @@ if st.button("Convert"):
     st.write(amount)
     
 
-##conda activate base
-##strealit run app.py
+
 
